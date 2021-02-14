@@ -40,12 +40,12 @@ dimensionality-reduction
 * ```biplot_scaled_c.pdf```
 * ``` biplot_unscaled_a.pdf```
 * ```biplot_unscaled_c.pdf```
-*  ```mds_1d.pdf```
-*    ```mds_2d.pdf```
-*        ```scree_plot_mds.pdf```
-*        ```variance_explained_cul_a.pdf```
-*        ```variance_explained_cul_c.pdf```
-*        ```variance_explained_ind_a.pdf```
-*        ```variance_explained_ind_c.pdf```
+* ```mds_1d.pdf```
+* ```mds_2d.pdf```
+* ```scree_plot_mds.pdf```
+* ```variance_explained_cul_a.pdf```
+* ```variance_explained_cul_c.pdf```
+* ```variance_explained_ind_a.pdf```
+* ```variance_explained_ind_c.pdf```
 
 
